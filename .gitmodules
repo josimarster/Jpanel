@@ -1,0 +1,3 @@
+[submodule "MailMigration"]
+	path = MailMigration
+	url = https://github.com/josimarster/MailMigration.git
